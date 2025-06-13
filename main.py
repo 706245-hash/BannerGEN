@@ -89,7 +89,7 @@ if __name__ == "__main__":
     }
     
     # Generate and display different banners
-    texts = ["Password Destroyer", "Vault", "Access Control", "Crypto Lock"]
+    texts = ["Hello World", "Vault", "Access Control", "Crypto Lock"]
     styles = ["block", "line", "star", "simple", "matrix"]
     
     for i, text in enumerate(texts):
