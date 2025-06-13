@@ -1,6 +1,6 @@
 # ASCII Banner Generator
 
-A Python script that generates customizable ASCII art banners with multiple styles and colors, perfect for command-line applications, security tools, or terminal-based projects.
+A Python script that generates customisable ASCII art banners with multiple styles and colors, perfect for command-line applications, security tools, or terminal-based projects.
 
 ## Features
 
