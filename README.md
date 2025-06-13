@@ -91,6 +91,28 @@ colors = {
 }
 ```
 
+## ASCII Banner Generator
+
+[Previous content remains the same until the Troubleshooting section...]
+
+### Flowchart
+
+Here's a visual representation of the banner generation process:
+
+```mermaid
+flowchart TD
+    A([Start]) --> B[Input Text, Style, Width]
+    B --> C{Style Exists?}
+    C -->|Yes| D[Get Character Set]
+    C -->|No| E[Use Default Style]
+    D --> F[Select Random Template]
+    E --> F
+    F --> G[Generate Banner Lines]
+    G --> H[Center Align Banner]
+    H --> I[Apply Color]
+    I --> J([Output Banner])
+```
+
 ## Troubleshooting
 - **Invalid escape sequence warnings**: Ensure backslashes in pre-designed banners are properly escaped
 - **IndexError**: Verify all style definitions have enough characters for their templates
