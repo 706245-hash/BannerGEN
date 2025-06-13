@@ -2,6 +2,11 @@
 
 A Python script that generates customisable ASCII art banners with multiple styles and colors, perfect for command-line applications, security tools, or terminal-based projects.
 
+[![Python Version](https://img.shields.io/badge/Python-3%2B-blue)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+![ToDo CLI Screenshot](screenshot.PNG) 
+
 ## Features
 
 - 🎨 Multiple banner styles: block, line, star, simple, and matrix
