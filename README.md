@@ -16,8 +16,8 @@ A Python script that generates customizable ASCII art banners with multiple styl
 2. Clone this repository or download the `main.py` file
 
 ```bash
-git clone https://github.com/yourusername/banner-generator.git
-cd banner-generator
+git clone https://github.com/706245-hash/BannerGEN.git
+python main.py
 ```
 
 ## Usage
